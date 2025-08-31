@@ -1,2 +1,3 @@
 # Python Basics — Lesson 1
-Набор коротких скриптов для практики переменных и f-строк.
+A set of short scripts for practicing variables and f-strings.
+
