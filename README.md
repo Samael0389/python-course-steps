@@ -1,2 +1,2 @@
-# python-course-steps
-It's how I learned Python from 0
+# Python Basics — Lesson 1
+Набор коротких скриптов для практики переменных и f-строк.
