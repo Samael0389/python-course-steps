@@ -8,3 +8,11 @@
 - lesson2_ops_basics.py — arithmetic and comparisons
 - lesson2_budget_check.py — budget check
 - lesson2_ticket_app.py — ticket purchase app (advanced task)
+## Lesson 3 — If/Else (Conditional Statements)
+- lesson3_age_check.py — age check (child, teenager, adult)
+- lesson3_temperature.py — temperature check
+- lesson3_even_odd.py — even/odd number
+- lesson3_leap_year.py — leap year check
+- lesson3_grades.py — grading system with retake condition
+
+
